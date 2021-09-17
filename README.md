@@ -1,6 +1,16 @@
 # Paper List
 Record the papers I have read so far.
 
+## Classical Nerual Network
+1. ImageNet Classification with Deep Convolutional Neural Network
+2. Very Deep Convolutional Networks for Large-Scale Image Recognition
+3. Going Deeper with Convolutions. [[paper](https://arxiv.org/abs/1409.4842)]
+4. Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift. [[paper](https://arxiv.org/abs/1502.03167)]
+5. Rethinking the Inception Architecture for Computer Vision. [[paper](https://arxiv.org/abs/1512.00567)]
+6. Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning. [[paper](https://arxiv.org/abs/1602.07261)]
+7. Deep Residual Learning for Image Recognition. [[paper](https://arxiv.org/abs/1512.03385)]
+
+
 ## Detection
 1. Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-319-10578-9_23.pdf)]
 
