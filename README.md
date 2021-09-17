@@ -3,7 +3,7 @@ Record the papers I have read so far.
 
 ## Classical Nerual Network
 1. ImageNet Classification with Deep Convolutional Neural Network
-2. Very Deep Convolutional Networks for Large-Scale Image Recognition
+2. Very Deep Convolutional Networks for Large-Scale Image Recognition. [[paper](https://arxiv.org/abs/1409.1556)]
 3. Going Deeper with Convolutions. [[paper](https://arxiv.org/abs/1409.4842)]
 4. Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift. [[paper](https://arxiv.org/abs/1502.03167)]
 5. Rethinking the Inception Architecture for Computer Vision. [[paper](https://arxiv.org/abs/1512.00567)]
