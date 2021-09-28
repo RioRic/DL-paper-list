@@ -29,3 +29,6 @@ Record the papers I have read so far.
 2. Adversarial Robustness as a Prior for Learned Representations. [[paper](https://arxiv.org/abs/1906.00945)]
 3. Robustness May Be at Odds with Accuracy. [[paper](https://arxiv.org/abs/1805.12152)]
 4. A Unified Probabilistic Framework.[[paper](https://openreview.net/forum?id=U0TCTe68s41)]
+
+## Transformer
+1. An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale. [[paper](https://arxiv.org/abs/2010.11929)][[code](https://github.com/google-research/vision_transformer)]
