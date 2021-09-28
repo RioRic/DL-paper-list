@@ -31,4 +31,5 @@ Record the papers I have read so far.
 4. A Unified Probabilistic Framework.[[paper](https://openreview.net/forum?id=U0TCTe68s41)]
 
 ## Transformer
-1. An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale. [[paper](https://arxiv.org/abs/2010.11929)][[code](https://github.com/google-research/vision_transformer)]
+1. An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale. [[paper](https://arxiv.org/abs/2010.11929)][[code](https://github.com/google-research/vision_transformer)][[note]()]
+2. DeepViT: Towards Deeper Vision Transformer. [[paper](https://arxiv.org/abs/2103.11886)]
